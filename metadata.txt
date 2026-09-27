@@ -1,0 +1,14 @@
+[general]
+name=GeoFlexForecast
+description=Spatial raster time-series forecasting with 8 curated models, automatic grid harmonisation, validation diagnostics and publication-quality figures.
+about=GeoFlexForecast applies forecasting independently across raster pixels or aggregated spatial blocks. It harmonises mismatched raster grids to a common aligned reference before modelling and produces forecast rasters, diagnostics, statistics and publication-ready graphs. Concept and research design by Zainab Khan.
+version=0.2.0
+qgisMinimumVersion=3.34
+author=Zainab Khan
+email=khanzainub@gmail.com
+category=Raster
+hasProcessingProvider=yes
+experimental=True
+homepage=
+repository=https://github.com/yourusername/geoflexforecast
+tracker=
